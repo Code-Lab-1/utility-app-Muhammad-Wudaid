@@ -55,7 +55,7 @@ while True:
         # Add the price of the item to the total cost
         total_cost += price
     else:
-        print("Sorry, that code is not available in the menu.")
+        print("Sorry, the code you entered is not available in the menu.")
         continue
 
     # Ask the user if they want to buy more items
